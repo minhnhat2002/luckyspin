@@ -27,8 +27,8 @@
 			percent: 4 / 100,
 		},
 		{
-			text: '20k',
-			percent: 15 / 100,
+			text: '500k',
+			percent: 1 / 100,
 		},
 		{
 			text: '20k',
@@ -40,7 +40,7 @@
 		},
 		{
 			text: 'Chúc bạn may mắn lần sau',
-			percent: 335 /100,
+			percent: 59 /100,
 		},
 	];
 

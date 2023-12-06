@@ -12,19 +12,19 @@
 	const listGift = [
 		{
 			text: '500k',
-			percent: 2 / 100,
+			percent: 1 / 100,
 		},
 		{
 			text: '200k',
-			percent:  3 / 100,
+			percent:  2 / 100,
 		},
 		{
 			text: '100k',
-			percent: 5 / 100,
+			percent: 3 / 100,
 		},
 		{
 			text: '50k',
-			percent: 10 / 100,
+			percent: 4 / 100,
 		},
 		{
 			text: '20k',

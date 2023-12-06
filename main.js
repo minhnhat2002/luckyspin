@@ -11,36 +11,36 @@
 	//=====< Danh sách phần thưởng >=====
 	const listGift = [
 		{
-			text: 'I phone 13',
-			percent: 10 / 100,
+			text: '500k',
+			percent: 2 / 100,
 		},
 		{
-			text: 'Siêu xe',
-			percent: 10 / 100,
+			text: '200k',
+			percent:  3 / 100,
 		},
 		{
-			text: '1tr vnd',
+			text: '100k',
 			percent: 5 / 100,
 		},
 		{
-			text: 'Khóa học html-css free',
-			percent: 5 / 100,
-		},
-		{
-			text: 'Laptop',
-			percent: 5 / 100,
-		},
-		{
-			text: 'Một cái like',
-			percent: 40 / 100,
-		},
-		{
-			text: 'Khóa học js free',
+			text: '50k',
 			percent: 10 / 100,
 		},
 		{
-			text: 'Áo khoác Gucci',
-			percent: 20 /100,
+			text: '20k',
+			percent: 15 / 100,
+		},
+		{
+			text: '20k',
+			percent: 15 / 100,
+		},
+		{
+			text: '20k',
+			percent: 15 / 100,
+		},
+		{
+			text: 'Chúc bạn may mắn lần sau',
+			percent: 335 /100,
 		},
 	];
 

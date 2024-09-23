@@ -12,35 +12,35 @@
 	const listGift = [
 		{
 			text: '500k',
-			percent: 1 / 100,
+			percent: 0 / 100,
 		},
 		{
 			text: '200k',
-			percent:  2 / 100,
+			percent:  0 / 100,
 		},
 		{
 			text: '100k',
-			percent: 3 / 100,
-		},
-		{
-			text: '50k',
-			percent: 4 / 100,
-		},
-		{
-			text: '500k',
 			percent: 1 / 100,
 		},
 		{
-			text: '20k',
-			percent: 15 / 100,
+			text: '50k',
+			percent: 1 / 100,
+		},
+		{
+			text: '500k',
+			percent: 0 / 100,
 		},
 		{
 			text: '20k',
-			percent: 15 / 100,
+			percent: 1 / 100,
+		},
+		{
+			text: '1k',
+			percent: 16 / 100,
 		},
 		{
 			text: 'Chúc bạn may mắn lần sau',
-			percent: 59 /100,
+			percent: 80 /100,
 		},
 	];
 
